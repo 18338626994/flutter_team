@@ -27,6 +27,7 @@ DerivedData/
 !default.perspectivev3
 
 xcuserdata
+.xcuserstate
 
 *.moved-aside
 
@@ -36,7 +37,10 @@ Icon?
 .tags*
 
 build/
-
-.ios/Flutter/Generated.xcconfig
+.android/
+.ios/
 .flutter-plugins
 .flutter-plugins-dependencies
+
+
+
