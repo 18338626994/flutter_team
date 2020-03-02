@@ -23,6 +23,24 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  common_utils: ^1.1.3
+  fluttertoast: ^3.1.3
+  fl_chart: ^0.7.0
+  dio: ^3.0.8
+  uuid: ^2.0.4
+  crypto: ^2.1.3
+  event_bus: 1.1.0
+  sprintf: 4.0.2
+  bloc: ^2.0.0
+  flutter_bloc: ^2.1.0
+#  flutter_boost: ^0.1.66
+  flutter_boost:
+    git:
+        url: 'https://github.com/alibaba/flutter_boost.git'
+        ref: 'task/task_v1.12.13_support_hotfixes'
+  image_picker: 
+    path: ./packages/image_picker
+  shared_preferences: ^0.5.4
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
