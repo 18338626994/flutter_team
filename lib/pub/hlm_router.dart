@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_boost/flutter_boost.dart';
-import 'package:hlm_flutter/pub/hlm_plugin.dart';
+import 'package:hlm_flut/pub/hlm_plugin.dart';
 
 class HlmRouter {
   static const String key_Route = "route";

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_boost/flutter_boost.dart';
-import 'package:hlm_flutter/pub/hlm_router.dart';
+import 'package:hlm_flut/pub/hlm_router.dart';
 import 'simple_page_widgets.dart';
 
 void main() {

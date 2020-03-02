@@ -4,7 +4,7 @@ import 'dart:math';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:hlm_flutter/widgets/default_app_bar.dart';
+import 'package:hlm_flut/widgets/default_app_bar.dart';
 import './platform_view.dart';
 import './pub/hlm_router.dart';
 import './pub/hlm_plugin.dart';
